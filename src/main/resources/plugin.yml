@@ -1,0 +1,12 @@
+name: BedWars-Rush
+description: An addon for BedWars that adds the Rush gamemode.
+version: '${project.version}'
+author: ritana5
+contributors:
+  - Kiiya
+  - Happy_FZM
+  - Zuyte
+main: net.ritana5.rush.Rush
+api-version: "1.20"
+softdepend:
+  - BedWars2023
